@@ -1,0 +1,128 @@
+
+Typical Coding Tests ( [Re]sort to Most Dollars + Toughest First )
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+    $ Given a number of tasks, determine if they can all be scheduled: Problem statement: There are ‘N’ tasks, labeled from ‘0’ to ‘N-1’. Each task can have some prerequisite tasks which need to be completed before it can be scheduled. Given the number of tasks and a list of prerequisite pairs, find out if it is possible to schedule all the tasks.
+
+    $ Implement a LRU cache: Problem statement: Least Recently Used (LRU) is a common caching strategy. It defines the policy to evict elements from the cache to make room for new elements when the cache is full, meaning it discards the least recently used items first. 
+
+    $ Merge overlapping intervals: Problem statement: You are given an array (list) of interval pairs as input where each interval has a start and end timestamp. The input array is sorted by starting timestamps. You are required to merge overlapping intervals and return output array (list).
+
+    $ Implement Blockchain in various languages
+
+    $ Simple Device drivers [ C++, etc. ]
+
+    $ Medium complexity Device drivers [ C++, etc. ]
+
+    $ Program Emulated microprocessors
+
+    $ Program Emulated Arduino
+
+    $ Program Emulated Raspberry Pi
+
+    $ Implement Banking software architecture in various languages
+
+    $ Implement Credit Rating software architecture in various languages
+
+    $ Implement Credit Card System software architecture in various languages
+
+    $ Implement all the major API methods
+
+    $ Interface with Stripe
+
+    $ Clone Venmo
+
+    $ Clone Paypal
+
+    $ Clone eBay
+
+    $ Clone Amazon shipping
+
+    $ Clone Fedex & UPS
+
+    $ Clone Amazon ecommerce
+
+    $ Integrate with SQLite
+
+    $ Astar algorithm
+
+    $ Heap sort
+
+    $ Implement strstr() & atoi()
+
+    $ Find all paths for a sum: Problem statement: Given a binary tree and a number ‘S’, find all paths from root-to-leaf such that the sum of all the node values of each path equals ‘S’.
+
+    $ Check if a string has balanced nested parentheses of all types
+
+    $ Create a left-right mirror of a binary tree
+
+    $ Delete a node with a given key from a linked list
+
+    $ Implement Binary search
+
+    $ Reverse a string
+
+    $ Longest substring with no more than ‘k’ distinct characters: Problem statement: Given a string, find the length of the longest substring in it with no more than K distinct characters.
+
+    $ Longest substring with no repeating characters: Problem statement: Given a string, find if its letters can be rearranged in such a way that no two same characters come next to each other.
+
+    $ Equal subset sum partition: Problem statement: Given a set of positive numbers, find if we can partition it into two subsets such that the sum of elements in both subsets is equal.
+
+    $ Determine if the number is valid: Problem statement: Given an input string, determine if it makes a valid number or not. For simplicity, assume that white spaces are not present in the input. 
+
+    $ Print balanced brace combinations: Problem statement: Print all braces combinations for a given value ‘N’ so that they are balanced.
+
+    $ Find the high and low index: Problem statement: Given a sorted array of integers, return the low and high index of the given key. Return -1 if not found. The array length can be in the millions with many duplicates.
+
+    $ Implement Linked Lists
+
+    $ Implement Stacks
+
+    $ Implement Trees
+
+    $ Implement Graphs
+
+    $ Implement Heaps
+
+    $ Implement Quicksort
+
+    $ Implement Breadth first search
+
+    $ Implement Depth first search
+
+    $ Implement a Towers of Hanoi solver
+
+    $ Implement some Greedy Algorithms
+
+    $ Check if a binary tree contains duplicate subtrees
+
+    $ Bit difference of a pair (x, y) is count of different bits at same positions in binary representations of x and y. 
+
+    $ Given three numbers x, y and p, compute (x**y) % p. 
+
+    $ Given a square matrix, turn it by 90 degrees in an anti-clockwise direction without using any extra space
+
+    $ Implement Tic-tac-toe
+
+    $ Implement chess
+
+    $ Given two strings, the task is to check whether these strings are meta strings or not. Meta strings are the strings which can be made equal by exactly one swap in any of the strings. Equal string are not considered here as Meta strings.
+
+    $ Implement arithmetic operations on integers that exceed/are under the max/min integer variable value
+
+    $ Merge sort
+
+    $ Palindrome
+
+    $ Find all anagrams in a list of strings
+
+    $ For a list of strings: (a) print all strings with duplicates, (b) print total
+      number of repeated occurences
+
+
+
+    Links to lists of coding tests
+    $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+    $ https://leetcode.com/problem-list/top-google-questions/
+m/problem-list/top-google-questions/

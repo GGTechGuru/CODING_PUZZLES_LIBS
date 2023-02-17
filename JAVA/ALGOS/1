@@ -1,0 +1,25 @@
+// SortLib.java
+import java.util.ArrayList;
+
+class SortLib {
+
+    public static ArrayList<int> mergeSort(ArrayList<int> l1, ArrayList<int> l2) {
+
+        ArrayList<int> sl = new ArrayList<int>();
+
+        return sl;
+    }
+
+    ///////////////////////////////////////////////
+
+    public static void main( String[] args ) {
+
+        // SortLib sortlib = new SortLib();
+
+        ArrayList<int> l1 = new ArrayList<int>();
+        ArrayList<int> l2 = new ArrayList<int>();
+
+        ArrayList<int> sorted_list = mergeSort(l1, l2);
+
+    }
+}
